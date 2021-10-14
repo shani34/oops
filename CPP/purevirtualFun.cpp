@@ -6,7 +6,7 @@
 4.A virtual function in base class might not be used.
 5.if a virtual function is defined in a base class ,there is no neccesity of rediefinne in the derived class
 */
-virtual void display()=0;
+virtual void display()=0;//do nohting 
 
  //use to make class abstruct class mainly --atleast one viru=tual function
-//we have to define in the child class/ derived 
+//we have to define in the child class/ derived class
