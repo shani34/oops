@@ -55,3 +55,13 @@ Your number is1+4i
 Your number is5+8i
 Your number is6+8i
 */
+/*  Access Modifier:
+
+
+
+                    public derivation   private derivation    Protected derivation
+private members:     Not inherited      Not inherited        Not inherited
+Protected members:    Protected         private                 Protected
+public:              public              private               Protected
+
+*/
